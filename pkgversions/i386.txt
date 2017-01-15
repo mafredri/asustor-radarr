@@ -1,0 +1,4 @@
+dev-db/sqlite-3.15.2
+dev-libs/tinyxml2-4.0.1
+media-libs/libmediainfo-0.7.91
+media-libs/libzen-0.4.34

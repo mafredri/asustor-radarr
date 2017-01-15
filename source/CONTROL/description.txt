@@ -1,0 +1,1 @@
+Radarr is a fork of Sonarr that aims to turn it into something like CouchPotato (Sonarr for movies).
