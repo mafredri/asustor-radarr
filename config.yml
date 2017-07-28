@@ -3,7 +3,7 @@ ssh: ascross
 
 package: radarr
 name: Radarr
-version: 0.2.0.453
+version: 0.2.0.778
 architecture:
 firmware: 2.6.0
 
