@@ -1,4 +1,4 @@
-dev-db/sqlite-3.17.0
-dev-libs/tinyxml2-4.0.1
-media-libs/libmediainfo-0.7.92.1
-media-libs/libzen-0.4.34
+dev-db/sqlite-3.19.3
+dev-libs/tinyxml2-5.0.1
+media-libs/libmediainfo-0.7.97
+media-libs/libzen-0.4.35
