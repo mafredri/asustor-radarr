@@ -1,3 +1,8 @@
+1.0.0:
+* Separate package versioning from Radarr versions (to avoid confusion)
+* Update dependencies
+* Update bundled Radarr to 0.2.0.870
+
 0.2.0.778:
 * Update bundled Radarr to 0.2.0.778
 * Fix for ADM 3.0
